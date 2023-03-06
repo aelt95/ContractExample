@@ -1,4 +1,4 @@
-- Meant to leanr:
+- Meant to learn:
   Ether payments
   Modifiers
   Visibility
